@@ -31,6 +31,7 @@ class Solution(object):
         return True
 
 #OPTIMAL SOLUTION
+
 class Solution(object):
     def isAnagram(self, s, t):
         """
